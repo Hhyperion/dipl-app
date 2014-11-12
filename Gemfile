@@ -44,7 +44,7 @@ gem 'spring',        group: :development
 gem 'devise'
 
 group :development, :test do
-  gem 'debugger'
+  #gem 'debugger'
   gem 'rspec-rails'
   gem 'better_errors'
   gem 'binding_of_caller'
